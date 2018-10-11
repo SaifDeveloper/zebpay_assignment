@@ -2,9 +2,13 @@ Usage:
 API to differentiate between the following transactions in ethereum main-net.
 
 1.Account Transfers 
+
 2.ERC 20 Token Transfers
+
 3.Contract Execution Transactions 
+
 4.Contract Creation Transactions
+
 For developing API, Infura was used as a blockchain node service.
 
 Software used:
