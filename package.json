@@ -1,0 +1,25 @@
+{
+  "name": "zebpay_api",
+  "version": "1.0.0",
+  "description": "API using infura",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodemon server.js"
+  },
+  "keywords": [
+    "eth",
+    "infura",
+    "api"
+  ],
+  "author": "Adarsh Nambiar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.4",
+    "promise": "^8.0.2",
+    "web3": "^1.0.0-beta.36"
+  }
+}
