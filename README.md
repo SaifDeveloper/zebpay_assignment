@@ -16,6 +16,7 @@ API to differentiate between the following transactions in ethereum main-net.
 For developing API, Infura was used as a blockchain node service.
 
 Software used:
+
 Infura(Blockchain node),
 
 
@@ -33,7 +34,6 @@ Postman(testing)
 
 
 Transaction Test cases:
-
 Account Transfers:
 
 
