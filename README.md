@@ -1,21 +1,23 @@
 Usage:
 API to differentiate between the following transactions in ethereum main-net.
- 1.Account Transfers (Ether transfer from one account to another)
- 2.ERC 20 Token Transfers
- 3.Contract Execution Transactions (Invoking contract functions)
- 4.Contract Creation Transactions
+
+1.Account Transfers 
+2.ERC 20 Token Transfers
+3.Contract Execution Transactions 
+4.Contract Creation Transactions
 For developing API, Infura was used as a blockchain node service.
 
 Software used:
-Infura(Blockchain node)
-Node js
-Atom
-Etherscan.io & web3js docs(to differentiate between transactions)
+Infura(Blockchain node),
+Node js,
+Atom,
+Etherscan.io & web3js docs(to differentiate between transactions),
 Postman(testing)
-Heroku(for deploying )
+
 
 
 Transaction Test cases:
+
 Account Transfers:
 0x75d1d0bf9264201f6715f3273f65e08bfa99939a820f1151b10d69f7effa7e36
 0xce4f36eff27e3a6544d183e335c958434964e307b069d6eb365f071cd99760f2
