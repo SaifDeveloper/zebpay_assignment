@@ -32,6 +32,11 @@ Etherscan.io & web3js docs(to differentiate between transactions),
 Postman(testing)
 
 
+heroku(for deploying)
+
+
+API is deployed at : https://apitestinfura.herokuapp.com
+
 
 Transaction Test cases:
 
