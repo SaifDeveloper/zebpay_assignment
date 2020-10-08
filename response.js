@@ -2,15 +2,15 @@
 const web3 = require('./web3connection');
 const getApiResponse =()=>{
   return{
-block:{},
-outs:[],
-ins:[],
-hash:null,
-currency:"ETH",
-chain:"ETH.main",
-state:null,
-depositType:null
-}
+    block:{},
+    outs:[],
+    ins:[],
+    hash:null,
+    currency:"ETH",
+    chain:"ETH.main",
+    state:null,
+    depositType:null
+  }
 }
 
 exports.contractExecution = (transaction,receipt)=>{
