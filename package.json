@@ -1,0 +1,23 @@
+{
+  "name": "zebpay_assignment",
+  "version": "1.0.0",
+  "description": "Zebpay API assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "saif",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "1.10.0",
+    "promise": "8.1.0",
+    "web3": "1.3.0"
+  }
+}
