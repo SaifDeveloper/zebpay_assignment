@@ -1,6 +1,6 @@
 const express = require('express');
-const indexPath=require('./path/index');
-const transactionPath=require('./path/transaction');
+const indexPath=require('./routes/index');
+const transactionPath=require('./routes/transaction');
 const app = express();
 
 
