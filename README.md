@@ -1,5 +1,7 @@
 <h1>ZebPay Assignment</h1>
 Hosted in AWS and can be run locally
+<br>
+Infura is used to connected to ETH blockchain
 
 <br>
 
