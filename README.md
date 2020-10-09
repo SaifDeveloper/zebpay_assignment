@@ -32,20 +32,17 @@ http://localhost:8080/eth/api/v1/transaction/0xfc1575cf35392a6016428f9d0d76f4c02
 <p>
 Account Transfer
 <br>
-http://18.221.173.96:8080/eth/api/v1/transaction/0xbeae83e379e9a4c986cfc453fe90e1fa2ca50eaa692
-ad99abe2aee2214208132
+http://18.221.173.96:8080/eth/api/v1/transaction/0xbeae83e379e9a4c986cfc453fe90e1fa2ca50eaa692ad99abe2aee2214208132
 </p>
 
 <p>
 Erc20 Token transfers
 <br>
-http://18.221.173.96:8080/eth/api/v1/transaction/0xee33a6c25198bf980c80803b25b30dbc195018d9ec
-9c97e087a9f1902ead45a9
+http://18.221.173.96:8080/eth/api/v1/transaction/0xee33a6c25198bf980c80803b25b30dbc195018d9ec9c97e087a9f1902ead45a9
 </p>
 
 <p>
 Contract execution
 <br>
-http://18.221.173.96:8080/eth/api/v1/transaction/0xda207ae2980e09742ad28f2e604a964387df13afc8
-831c5762fc5b7b240b0502
+http://18.221.173.96:8080/eth/api/v1/transaction/0xda207ae2980e09742ad28f2e604a964387df13afc8831c5762fc5b7b240b0502
 </p>
