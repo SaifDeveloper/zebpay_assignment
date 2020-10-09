@@ -2,7 +2,7 @@
   "name": "zebpay_assignment",
   "version": "1.0.0",
   "description": "Zebpay API assignment",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": ""
   },
@@ -11,7 +11,7 @@
     "url": ""
   },
   "keywords": [
-    ""
+    "zebpay"
   ],
   "author": "saif",
   "license": "ISC",

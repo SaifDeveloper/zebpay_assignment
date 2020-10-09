@@ -1,5 +1,4 @@
 
-const web3 = require('./web3connection');
 const getApiResponse =()=>{
   return{
     block:{},
