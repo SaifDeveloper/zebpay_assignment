@@ -9,7 +9,9 @@ http://18.221.173.96:8080/eth/api/v1/transaction/0xf7f07207c6946a63e501b82dafadc
 
 
 <h3>Run Locally</h3>
-node app
+
+step1: npm install
+step2: npm start
 
 Sample:
 
